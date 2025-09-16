@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Brute Engine
 
 ## KiriKiri Z + Raylib + KAG scripting
