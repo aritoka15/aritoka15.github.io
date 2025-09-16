@@ -1,4 +1,4 @@
-# aritoka15.github.io
+# Main Page
 
 <!DOCTYPE html>
 <html lang="en">
