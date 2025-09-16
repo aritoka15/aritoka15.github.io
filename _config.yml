@@ -1,3 +1,5 @@
-theme: jekyll-theme-modernist
 title: DevLog CetaSoft
 description: "I'll be keeping here all the updates related to the development of the Brute Engine"
+
+plugins:
+  - jekyll-seo-tag
