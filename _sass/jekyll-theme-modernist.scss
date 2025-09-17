@@ -22,8 +22,12 @@ body {
   color:#555;
   font-weight:300;
   font-stretch: condensed;
-  background:url('../images/checker.png') fixed;
-  min-height: calc(100% - 100px);
+  background-image: url("../assets/images/CetaLogojfif.jpg");
+  background-repeat: repeat;
+  background-size: 150px 150px;   /* Ajusta el tamaño del patrón */
+  background-position: top left;
+  //background:url('../images/checker.png') fixed;
+  //min-height: calc(100% - 100px);
 }
 
 .wrapper {
