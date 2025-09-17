@@ -9,9 +9,10 @@
 }
 
 html {
-  background:#6C7989;
-  background: #6C7989 linear-gradient(#6C7989, #434B55) fixed;
-  height: 100%;
+  background-image: url("recursos/CetaLogojfif.jpg");
+  background-repeat: repeat;
+  background-size: 150px 150px;   /* Ajusta el tamaño del patrón */
+  background-position: top left;
 }
 
 body {
@@ -21,12 +22,8 @@ body {
   color:#555;
   font-weight:300;
   font-stretch: condensed;
-  background-image: url("recursos/CetaLogojfif.jpg");
-  background-repeat: repeat;
-  background-size: 150px 150px;   /* Ajusta el tamaño del patrón */
-  background-position: top left;
-  //background:url('../images/checker.png') fixed;
-  //min-height: calc(100% - 100px);
+  background:url('../images/checker.png') fixed;
+  min-height: calc(100% - 100px);
 }
 
 .wrapper {
