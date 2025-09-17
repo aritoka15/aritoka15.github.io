@@ -23,7 +23,7 @@ body {
   font-weight:300;
   font-stretch: condensed;
   background-image: 
-    url("/assets/images/lines.png"),         /* pattern/logo on top */
+    url("/assets/lines.png"),         /* pattern/logo on top */
     linear-gradient(to top,#286EE6 0%, #FFFFFF 100%); /* gradient below */
   background-repeat: repeat, no-repeat;      /* PNG repeats, gradient does not */
   background-size: 150px 150px, cover;       /* PNG size, gradient covers all */
